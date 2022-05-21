@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    li {
+        @apply p-3 cursor-pointer
+    }
+
+    button {
+        @apply text-white border-2 bg-blue-600 border-blue-600 rounded-sm
+    }
+}
