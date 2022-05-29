@@ -62,6 +62,7 @@ function Footer() {
                 </div>
 
                 <p className='text-sm font-extralight'>2022 Brand,LLC. All Rights Reserved</p>
+                <p className='text-xs font-light'>---Mounish---</p>
             </div>
         </div>
     );
